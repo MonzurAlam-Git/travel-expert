@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Cox-Bazar",
+    "details": "Cox's Bazar (Bengali: কক্সবাজার) is a city, fishing port, tourism centre, and district headquarters in southeastern Bangladesh. ",
+    "img": "https://i.ibb.co/1J8x2sb/Rectangle1.png"
+  },
+  {
+    "id": 2,
+    "name": "Sreemongol",
+    "details": "Sreemangal (Bengali: শ্রীমঙ্গল, romanized: Srimongol) is an upazila of Moulvibazar District[1] in the Sylhet Division of Bangladesh.. ",
+    "img": "https://i.ibb.co/HqynBtZ/Sreemongol.png"
+  },
+  {
+    "id": 3,
+    "name": "Sajek",
+    "details": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, ",
+    "img": "https://i.ibb.co/PzY0b0b/Sajek.png "
+  },
+  {
+    "id": 4,
+    "name": "SundorBon",
+    "details": "Sundarbans is a mangrove area in the delta formed by the confluence of the Padma, Brahmaputra and Meghna Rivers in the Bay of Bengal. ",
+    "img": "https://i.ibb.co/DWQzKct/sundorbon.png"
+  }
+]
